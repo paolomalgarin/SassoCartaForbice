@@ -53,7 +53,7 @@
    Il gioco termina quando rimane un solo tipo di elemento nel cubo.
 
 <p align="center">
-  <img src="gameplay.gif" alt="SassoCartaForbice Simulation" width="600"/>
+  <img src="gameplay.gif" alt="SassoCartaForbice Simulation" width="800"/>
 </p>
 
 ---
