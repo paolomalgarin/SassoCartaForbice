@@ -4,7 +4,7 @@
 > Un gioco basato su **Sasso, Carta e Forbice**, in cui molteplici entità si scontrano all'interno di un cubo e si trasformano in base alle regole classiche del gioco, fino a quando ne rimane solo una.
 
 <p align="center">
-  <img src="gameplay.gif" alt="SassoCartaForbice Gameplay" width="600"/>
+  <img src="banner.png" alt="SassoCartaForbice Gameplay" width="600"/>
 </p>
 
 ---
